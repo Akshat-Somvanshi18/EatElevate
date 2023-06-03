@@ -1,0 +1,167 @@
+/* @import url("animate.css"); */
+       
+
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #f2f8ff;
+}
+p,h5{
+  margin: 0;
+}
+#login-logo{
+  width: 200px;
+}
+#login-img{
+  width: 150px;
+}
+#google-img{
+  width: 30px;
+}
+.login-btn:hover{
+  box-shadow: 0px 0px 2px 1px grey;
+  
+}
+.login-div{
+  width: 400px;
+}
+
+@media screen and (max-width:450px) {
+
+  .login-div{
+    width: 280px;
+  }
+  
+}
+.title-blog{
+  width: 500px;
+  height: 50px;
+}
+.type-blog{
+  width: 500px;
+  height: 200px;
+}
+
+@media screen and (max-width:550px) {
+
+  .title-blog{
+    width: 290px;
+    height: 40px;
+  }
+  .type-blog{
+    width: 290px;
+    height: 100px;
+  }
+  
+}
+
+.blog-card{
+  width: 400px;
+  height: 350px;
+}
+.blog-description{
+   height: 300px;
+}
+
+.blog-section{
+  width: 900px;
+}
+#valsco-logo{
+  width: 50px;
+}
+.blog-card{
+  width: 350px;
+  height: 350px;
+}
+
+
+/* .detailed-blog{
+  width: 600px;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-swiper {
+  margin: 40px 0;
+}
+
+
+
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  margin-left: 250px;
+  max-width: 50%;
+  height: 300px;
+}
+
+/* .swiper-slide img {
+  display: block;
+  width: 30%;
+} */
+/* body{
+  background-color: black;
+  } */
+
+ @media screen and (max-width:420px) {
+
+  .blog-card{
+    font-size: 13px;
+    width: 400px;
+    height: 320px;
+  }
+ 
+  
+ }
+
+
+ #eatelevate-logo{
+  width: 100px;
+ }
+
+ #cart-calculate{
+  width: 25px;
+  border-radius: 100px;
+  background-color: orange;
+  position: absolute;
+  top: 20px;
+  right: 115px;
+ }
+ #active-menu{
+  background-color: #fec246;
+ }
+
+ .item-cards-div{
+  width: 600px;
+ }
+ #item-desc-div p{
+      width: 300px;
+ }
+ .add-btn{
+  width: 80px;
+
+ }
+ .restaurent-head{
+  /* margin-left: 100px; */
+ }
+
+ .fa{
+  cursor: pointer;
+ }
+
+ .input{
+  width: 600px;
+  height: 50px;
+ }
